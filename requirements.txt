@@ -3,3 +3,5 @@ uvicorn
 pydantic
 transformers
 torch
+huggingface_hub
+sentencepiece

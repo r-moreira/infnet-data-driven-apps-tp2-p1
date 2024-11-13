@@ -1,5 +1,10 @@
 from fastapi import FastAPI
+
+from .routers.chat_route import router as chat_router
+
 app = FastAPI()
+
+app.include_router(chat_router, prefix="/chat")
 
 @app.get("/")
 def hello_message():
