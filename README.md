@@ -9,7 +9,10 @@ Aplicação para resolver uma série de exercícios utilizando fastapi
 ### Estrutura do projeto:
 ```./README.md``` - Este arquivo.
 
-```rodrigo_avila_DR3_TP2.pdf``` - PDF contendo os prints e exercícios escritos.
+
+```./notebooks/*``` - Contém o notebook com a resolução dos exercícios teóricos.
+
+```rodrigo_avila_DR3_TP2_p1.pdf``` - PDF contendo os prints e exercícios escritos.
 
 ```./src/*``` - Contém o código fonte da aplicação com a resolução de todos os exercícios.
 
